@@ -23,6 +23,8 @@ void printprime(int a, int b){
         }
     }
 }
+
+//this is comment
 int main(){
     int a,b;
     scanf("%d",&a);
