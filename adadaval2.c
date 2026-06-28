@@ -32,4 +32,3 @@ int main(){
     printprime(a,b);
     return 0;
 }
-//fake comment
